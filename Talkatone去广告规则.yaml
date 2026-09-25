@@ -1,4 +1,5 @@
 # Talkatone广告域名集
+no_resolve: true
 domain_suffix_set:
   - smadex.com
   - adsrvr.org
