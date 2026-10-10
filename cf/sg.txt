@@ -1,5 +1,5 @@
-172.64.40.35:443#172.64.40.35-443-72ms-TCPing-42.88MB/s-SIN-SG-Asia Pacific-Singapore
-162.159.60.158:443#162.159.60.158-443-72ms-TCPing-39.50MB/s-SIN-SG-Asia Pacific-Singapore
-162.159.0.40:443#162.159.0.40-443-73ms-TCPing-39.48MB/s-SIN-SG-Asia Pacific-Singapore
-162.159.10.120:443#162.159.10.120-443-72ms-TCPing-39.04MB/s-SIN-SG-Asia Pacific-Singapore
-162.159.11.64:443#162.159.11.64-443-72ms-TCPing-38.71MB/s-SIN-SG-Asia Pacific-Singapore
+198.41.223.105:443#198.41.223.105-443-72ms-TCPing-46.54MB/s-SIN-SG-Asia Pacific-Singapore
+162.159.12.98:443#162.159.12.98-443-72ms-TCPing-43.46MB/s-SIN-SG-Asia Pacific-Singapore
+162.159.2.8:443#162.159.2.8-443-74ms-TCPing-41.57MB/s-SIN-SG-Asia Pacific-Singapore
+162.159.15.4:443#162.159.15.4-443-72ms-TCPing-40.93MB/s-SIN-SG-Asia Pacific-Singapore
+162.159.18.225:443#162.159.18.225-443-73ms-TCPing-40.16MB/s-SIN-SG-Asia Pacific-Singapore
