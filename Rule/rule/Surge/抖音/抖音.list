@@ -1,14 +1,13 @@
 # NAME: 抖音
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-26 21:21:49
-# DOMAIN: 6
-# DOMAIN-SUFFIX: 42
-# TOTAL: 48
-DOMAIN,jihbgihvihkv.jspcdn.cn
+# UPDATED: 2026-10-27 09:44:42
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 49
+# TOTAL: 54
+DOMAIN,lf-cdn-tos.bytescm.com
 DOMAIN,lf3-ecom-toc.jinritemai.com
 DOMAIN,lf3-short.ibytedapm.com
-DOMAIN,qg79lnatrn8ej.v1d.pkoplink.com
 DOMAIN,sdktt.data.tianwenca.com
 DOMAIN,sf1-cdn-tos.toutiaostatic.com
 DOMAIN-SUFFIX,0kkkkkt.com
@@ -27,6 +26,7 @@ DOMAIN-SUFFIX,bytemaimg.com
 DOMAIN-SUFFIX,bytemastatic.com
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,cjjd14.com
+DOMAIN-SUFFIX,ctydoh.cn
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
@@ -34,10 +34,15 @@ DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,ecombdstatic.com
+DOMAIN-SUFFIX,hbttl.cn
+DOMAIN-SUFFIX,huoshanimg.com
 DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,jomoxc.com
+DOMAIN-SUFFIX,jspcdn.cn
 DOMAIN-SUFFIX,lyxen.cn
 DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,novaloom.cn
+DOMAIN-SUFFIX,pkoplink.com
 DOMAIN-SUFFIX,qiezibenpao.com
 DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,qrstuvwxyzab.com
@@ -46,6 +51,7 @@ DOMAIN-SUFFIX,shenzhyu.work
 DOMAIN-SUFFIX,sjxydc.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiaocloud.net
+DOMAIN-SUFFIX,ugsdk.cn
 DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,wmzfylgdsz.com
 DOMAIN-SUFFIX,wtturl.cn

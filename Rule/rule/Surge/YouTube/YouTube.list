@@ -1,10 +1,11 @@
 # NAME: YouTube
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-26 21:21:49
+# UPDATED: 2026-10-27 09:44:42
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 2
-# TOTAL: 3
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
 DOMAIN,www.gstatic.com
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubei.googleapis.com

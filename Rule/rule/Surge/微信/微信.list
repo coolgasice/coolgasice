@@ -1,13 +1,21 @@
 # NAME: 微信
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-26 21:21:49
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 4
-# TOTAL: 6
-DOMAIN,prewxacode.wxqcloud.qq.com.cn
+# UPDATED: 2026-10-27 09:44:42
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 9
+# TOTAL: 14
+DOMAIN,ap-guangzhou-fit.log.zhiyan.tencent-cloud.net
+DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+DOMAIN,jiguang.coc.10086.cn
 DOMAIN,report-online.sh.wxgateway.com
+DOMAIN,static.gtimg.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,sto.cn
+DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,wechatpay.cn
+DOMAIN-SUFFIX,weixinbridge.com
