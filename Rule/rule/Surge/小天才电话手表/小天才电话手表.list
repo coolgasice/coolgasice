@@ -1,9 +1,10 @@
 # NAME: 小天才电话手表
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-27 18:10:06
+# UPDATED: 2026-10-28 08:30:59
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
 DOMAIN,ir-sdk.dun.163.com
 DOMAIN-SUFFIX,okii.com
+DOMAIN-SUFFIX,xiaotiancai.com

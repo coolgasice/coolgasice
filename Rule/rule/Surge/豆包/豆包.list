@@ -1,8 +1,9 @@
 # NAME: 豆包
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-26 21:21:49
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-10-28 08:30:59
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
 DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,obriccloud.com
 DOMAIN-SUFFIX,ugsdk.cn

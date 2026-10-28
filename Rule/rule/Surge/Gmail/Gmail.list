@@ -1,9 +1,11 @@
 # NAME: Gmail
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-26 21:21:49
+# UPDATED: 2026-10-28 08:30:59
+# DOMAIN: 1
 # DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# TOTAL: 6
+DOMAIN,cdn.ampproject.org
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,meetings.googleapis.com
 DOMAIN-SUFFIX,notifications-pa.googleapis.com
