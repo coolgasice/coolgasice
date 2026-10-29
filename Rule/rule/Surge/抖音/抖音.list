@@ -1,10 +1,11 @@
 # NAME: 抖音
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-28 08:30:59
-# DOMAIN: 6
-# DOMAIN-SUFFIX: 55
-# TOTAL: 61
+# UPDATED: 2026-10-29 14:28:39
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 58
+# TOTAL: 65
+DOMAIN,api.xsj.wasu.tv
 DOMAIN,lf-cdn-tos.bytescm.com
 DOMAIN,lf3-config.bytetcc.com
 DOMAIN,lf3-ecom-toc.jinritemai.com
@@ -15,6 +16,7 @@ DOMAIN-SUFFIX,0kkkkkt.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bdcgslb.com
+DOMAIN-SUFFIX,bjmxy.net
 DOMAIN-SUFFIX,bvgtm.com
 DOMAIN-SUFFIX,bvmlt.top
 DOMAIN-SUFFIX,bytedance.com
@@ -57,11 +59,13 @@ DOMAIN-SUFFIX,qtaeixd.com
 DOMAIN-SUFFIX,shenzhyu.work
 DOMAIN-SUFFIX,sjxydc.com
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiaocloud.com
 DOMAIN-SUFFIX,toutiaocloud.net
 DOMAIN-SUFFIX,ugsdk.cn
 DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,wmzfylgdsz.com
 DOMAIN-SUFFIX,wtturl.cn
+DOMAIN-SUFFIX,wuchuyun.com
 DOMAIN-SUFFIX,xinqiucc.com
 DOMAIN-SUFFIX,ydycdn.com
 DOMAIN-SUFFIX,yingt.fun

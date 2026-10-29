@@ -1,11 +1,12 @@
 # NAME: Fleamarket11
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-27 18:10:06
-# DOMAIN: 6
+# UPDATED: 2026-10-29 14:28:39
+# DOMAIN: 7
 # DOMAIN-SUFFIX: 5
-# TOTAL: 11
+# TOTAL: 12
 DOMAIN,alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com
+DOMAIN,appdownload.xianyu.alibaba-inc.com
 DOMAIN,cloud-config-service.rtc.aliyuncs.com
 DOMAIN,videocloud.cn-hangzhou.dualstack.log.aliyuncs.com
 DOMAIN,vod-newplayer.cn-hangzhou.log.aliyuncs.com

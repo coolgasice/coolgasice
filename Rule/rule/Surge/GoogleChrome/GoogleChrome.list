@@ -1,0 +1,21 @@
+# NAME: GoogleChrome
+# AUTHOR: Rulify
+# REPO: https://github.com/coolgasice/coolgasice
+# UPDATED: 2026-10-29 14:28:39
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 13
+# TOTAL: 14
+DOMAIN,cdn.sapphire.microsoftapp.net
+DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,content-autofill.googleapis.com
+DOMAIN-SUFFIX,ddgksf2013.top
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ip.me
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+DOMAIN-SUFFIX,pa.googleapis.com
+DOMAIN-SUFFIX,passwordsleakcheck-pa.googleapis.com
+DOMAIN-SUFFIX,translate.googleapis.com
+DOMAIN-SUFFIX,update.googleapis.com
+DOMAIN-SUFFIX,www.googleapis.com

@@ -1,12 +1,15 @@
 # NAME: 喜马拉雅听书社区电台有声小说相声评书
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-26 21:21:49
+# UPDATED: 2026-10-29 14:28:39
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 3
-# TOTAL: 5
-DOMAIN,h5dl.pcdn.xmcdn.com
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
+DOMAIN,sdk.open.talk.gepush.com
 DOMAIN,tx-xmc-pub-sub-communication.2vtpgmp79lxu.eo.dnse1.com
+DOMAIN-SUFFIX,bvglb.com
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,qrstuvwxyzab.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com

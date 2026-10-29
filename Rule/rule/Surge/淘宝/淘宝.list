@@ -1,10 +1,11 @@
 # NAME: 淘宝
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-26 21:21:49
-# DOMAIN: 1
+# UPDATED: 2026-10-29 14:28:39
+# DOMAIN: 2
 # DOMAIN-SUFFIX: 2
-# TOTAL: 3
+# TOTAL: 4
+DOMAIN,a-rsc.elemecdn.com
 DOMAIN,g.alicdn.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,taobao.com

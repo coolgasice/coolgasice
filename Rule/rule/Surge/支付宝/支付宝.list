@@ -1,14 +1,19 @@
 # NAME: 支付宝
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-28 08:30:59
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 5
-# TOTAL: 7
+# UPDATED: 2026-10-29 14:28:39
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 8
+# TOTAL: 12
+DOMAIN,env-00jxgj3jy260.normal.cloudstatic.cn
 DOMAIN,g.alicdn.com
 DOMAIN,voucherprod-online.oss-cn-zhangjiakou.aliyuncs.com
+DOMAIN,xiaojinhe-cdn.iyoudui.cn
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,alipay-eco.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipay.com.cn
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,bvmlt.top
+DOMAIN-SUFFIX,iyoudui.com
 DOMAIN-SUFFIX,taobao.com
