@@ -1,11 +1,13 @@
 # NAME: EplayerX
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-29 14:28:39
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# UPDATED: 2026-10-30 17:00:00
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
 DOMAIN-SUFFIX,200038.xyz
 DOMAIN-SUFFIX,eplayerx.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,yusen6.ccwu.cc

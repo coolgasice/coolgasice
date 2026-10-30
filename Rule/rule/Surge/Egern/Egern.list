@@ -1,11 +1,10 @@
 # NAME: Egern
 # AUTHOR: Rulify
 # REPO: https://github.com/coolgasice/coolgasice
-# UPDATED: 2026-10-29 14:28:39
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 3
+# UPDATED: 2026-10-30 17:00:00
+# DOMAIN-SUFFIX: 4
 # TOTAL: 4
-DOMAIN,o4505782787964928.ingest.sentry.io
 DOMAIN-SUFFIX,egernlicense.com
 DOMAIN-SUFFIX,jsforbaby.workers.dev
 DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,sentry.io
