@@ -3,18 +3,3 @@
 103.136.146.110:443#SYD-AU-11.10MB/s-xTom Pty Ltd
 103.136.146.154:443#SYD-AU-11.04MB/s-xTom Pty Ltd
 103.136.146.31:443#SYD-AU-10.17MB/s-xTom Pty Ltd
-45.59.131.117:443#SYD-AU-2.01MB/s-Mammoth Media Pty Ltd
-103.136.146.55:443#SYD-AU-未测速-xTom Pty Ltd
-103.136.146.250:443#SYD-AU-未测速-xTom Pty Ltd
-103.136.146.40:443#SYD-AU-未测速-xTom Pty Ltd
-103.136.146.194:443#SYD-AU-未测速-xTom Pty Ltd
-103.136.146.53:443#SYD-AU-未测速-xTom Pty Ltd
-103.136.146.126:443#SYD-AU-未测速-xTom Pty Ltd
-103.136.146.68:443#SYD-AU-未测速-xTom Pty Ltd
-103.136.146.249:443#SYD-AU-未测速-xTom Pty Ltd
-45.77.236.204:443#SYD-AU-未测速-The Constant Company, LLC
-45.76.119.159:443#SYD-AU-未测速-The Constant Company, LLC
-149.28.174.23:443#SYD-AU-未测速-The Constant Company, LLC
-45.32.243.13:443#SYD-AU-未测速-The Constant Company, LLC
-150.230.8.0:443#SYD-AU-未测速-Oracle Corporation
-137.23.25.114:443#SYD-AU-未测速-Oracle Corporation
